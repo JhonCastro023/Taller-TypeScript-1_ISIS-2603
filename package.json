@@ -1,0 +1,26 @@
+{
+  "name": "taller-typescript-1_isis-2603",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "build": "tsc",
+  "watch": "tsc -w"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonCastro023/Taller-TypeScript-1_ISIS-2603.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JhonCastro023/Taller-TypeScript-1_ISIS-2603/issues"
+  },
+  "homepage": "https://github.com/JhonCastro023/Taller-TypeScript-1_ISIS-2603#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
